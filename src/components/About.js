@@ -11,7 +11,7 @@ import ProfileArray from "./ProfileArray";
 export default function About({ color }) {
   const profile = ProfileArray();
     return (
-      <>
+      <> 
         <Container maxW={"3xl"} id="about">
           <Stack
             as={Box}
