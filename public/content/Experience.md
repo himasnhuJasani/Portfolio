@@ -1,6 +1,6 @@
 ## Zingtree
 - *Software Engineer* | Sept'24 - Mar'25
-- ![logo512](..\assets\1635969082498.jpeg)
+- ![logo512](..\assets\zt.png)
 - Tags: Zingtree
 - Badges:
   - Badge [blue]
@@ -9,7 +9,7 @@
 
 ## EY
 - *Technology Consultant* | Sept'24 - Mar'25
-- ![logo512](..\assets\1635969082498.jpeg)
+- ![logo512](..\assets\ey.jpg)
 - Tags: EY
 - Badges:
   - Badge [blue]
